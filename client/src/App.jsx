@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
-import './App.css';
 import { logo } from './assets';
 import { CreatePost, Home } from './pages';
 function App() {
