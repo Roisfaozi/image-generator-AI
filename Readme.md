@@ -73,4 +73,4 @@ Open [https://imageopen.netlify.app/](https://imageopen.netlify.app/) the url in
 
 ### Support
 
-Support me: [Paypal](paypal.me/roisfaozi)
+Support me: [Paypal](https://paypal.me/roisfaozi)
