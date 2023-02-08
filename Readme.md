@@ -37,7 +37,7 @@ npm start
 
 Open [http://http://localhost:5173/](http://http://localhost:5173/) with your browser to see the app.
 
-Open [http://http://localhost:5173/](http://http://localhost:5173/) with your browser to run API endpoint.
+Open [http://http://localhost:8080/](http://http://localhost:8080/) with your browser to run API endpoint.
 
 ```shell
 structure folder app
